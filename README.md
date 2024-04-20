@@ -64,6 +64,5 @@
 
 <a href="https://github.com/Apeksha-P/github-profile-trophy">
   <img width=1000 src="https://github-profile-trophy.vercel.app/?username=Apeksha-P&column=9&theme=gruvbox&no-frame=true"/>
-  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=Apeksha-P&column=10&theme=gruvbox&no-frame=true"/>
 </a>
 
