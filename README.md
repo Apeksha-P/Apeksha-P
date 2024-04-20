@@ -58,8 +58,6 @@
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=Apeksha-P&theme=soft-green)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apeksha-p&" alt="apeksha-p" /></p>
-
 ---
 
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
