@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavithri Apeksha</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi,+I'm+H.P.Pavithri+Apeksha;+University+Of+Kelaniya+Faculty+of+Computing+And+Tecnology)](https://git.io/typing-svg)
 
 <br>
 
