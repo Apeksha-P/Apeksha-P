@@ -46,6 +46,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apeksha-p&show_icons=true&locale=en" alt="apeksha-p" /></p>
 
+ <p align="center"> 
+  <h1>Visitor count</h1><br>
+  <img src="https://profile-counter.glitch.me/Apeksha-P/count.svg" />
+</p>
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apeksha-P&theme=monokai)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Apeksha-P&theme=monokai)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apeksha-p&" alt="apeksha-p" /></p>
 
 ---
