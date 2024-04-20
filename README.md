@@ -62,5 +62,8 @@
 
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Apeksha-P" alt="Pavithri Apeksha" /></a> </p>
+<a href="https://github.com/Apeksha-P/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=9&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=10&theme=gruvbox&no-frame=true"/>
+</a>
 
