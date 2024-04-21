@@ -3,9 +3,9 @@
 <br>
 
 
-- 🌱 I’m currently learning **Java , Python , JavaScript**
+- 🌱 I’m currently learning **Java , Python , JavaScript , React , Flask**
 
-- 💬 Ask me about **HTML5**
+- 💬 Ask me about **HTML5 , MYSQL , CSS**
 
 - 📫 How to reach me **pavithriapeksha1new@gmail.com**
 
