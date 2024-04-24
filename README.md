@@ -60,13 +60,13 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apeksha-P&theme=monokai)
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Apeksha-P&theme=soft-green)](https://git.io/streak-stats)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=apeksha-p&theme=soft-green)](https://git.io/streak-stats)
 
 ---
 
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
 
-<a href="https://github.com/Apeksha-P/github-profile-trophy">
-  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=Apeksha-P&column=9&theme=gruvbox&no-frame=true"/>
+<a href="https://github.com/apeksha-p/github-profile-trophy">
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=apeksha-p&column=9&theme=gruvbox&no-frame=true"/>
 </a>
 
