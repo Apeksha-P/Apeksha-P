@@ -48,9 +48,9 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Apeksha-P&show_icons=true&locale=en&layout=compact" alt="apeksha-p" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apeksha-p&show_icons=true&locale=en&layout=compact" alt="apeksha-p" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Apeksha-P&show_icons=true&locale=en" alt="apeksha-p" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apeksha-p&show_icons=true&locale=en" alt="apeksha-p" /></p>
 
  <p align="center"> 
   <h1>Visitor count</h1><br>
