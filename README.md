@@ -43,7 +43,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 </div>
 
-
 <br>
 
 ---
@@ -52,21 +51,19 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apeksha-p&show_icons=true&locale=en" alt="apeksha-p" /></p>
 
- <p align="center"> 
+<p align="center"> 
   <h1>Visitor count</h1><br>
-  <img src="https://profile-counter.glitch.me/Apeksha-P/count.svg" />
+  <img src="https://profile-counter.glitch.me/apeksha-p/count.svg" />
 </p>
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apeksha-P&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apeksha-p&theme=monokai)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=apeksha-p&theme=soft-green)](https://git.io/streak-stats)
 
 ---
 
-<img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
+<img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://github.com/Apeksha-P&color=f88379">
 
 <a href="https://github.com/apeksha-p/github-profile-trophy">
   <img width=1000 src="https://github-profile-trophy.vercel.app/?username=apeksha-p&column=9&theme=gruvbox&no-frame=true"/>
 </a>
-
