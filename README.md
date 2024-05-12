@@ -58,7 +58,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apeksha-p&theme=monokai)
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=apeksha-p&theme=soft-green)](https://git.io/streak-stats)
 
 ---
 
