@@ -46,7 +46,7 @@
 <br>
 
 ---
-### 📊 GitHub Stats:
+### 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=Apeksha-P&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Apeksha-P&theme=vue-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Apeksha-P&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
